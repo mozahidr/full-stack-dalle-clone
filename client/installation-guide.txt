@@ -1,0 +1,6 @@
+// Tailwind css install
+npm install -D tailwindcss postcss autoprefixer
+
+// Create app
+npm create vite@latest
+npx tailwindcss init -p
