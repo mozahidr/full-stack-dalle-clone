@@ -6,4 +6,6 @@ Full Stack Dall-E Clone, using OpenAI API to generate image depends on users inp
 ## Search post by name and prompt
 ## All the post will come from MongoDB
 
+### project link: https://rana-dalle-clone.netlify.app/
+
 
